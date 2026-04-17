@@ -11,6 +11,11 @@ A shell script to report AWS resource usage
 - Lists IAM users
 - Saves the output to a file ('resourceTracker.txt')
 
+
+## Automation (Cron)
+Example:
+0 9 * * * ./aws_resource_tracker.sh >> sample-output.txt
+
 ---
 
 ## Usage
