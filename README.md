@@ -1,4 +1,4 @@
-# aws-resource-usage-
+# aws-resource-tracker-
 A shell script to report AWS resource usage
 
 ---
