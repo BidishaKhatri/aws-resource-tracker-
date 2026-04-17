@@ -24,4 +24,4 @@ Example:
 2. Run the script:
 
 chmod +x aws_resource_tracker.sh
-./aws_resource_tracker.sh > resourceTracker.txt
+./aws_resource_tracker.sh > sample-output.txt
